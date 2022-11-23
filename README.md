@@ -7,9 +7,7 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -17,37 +15,24 @@
 
 ![screenshot](./src/assets/travel-snap.PNG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+### Where can I see your demo?
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+### What have you learned/improved?
+Building this app was a great experience, I learned a lot about Material UI, for example how to use the built-in components, their icons, and hw to apply personal styles.
+Also, it was awesome to use the react google map library, that allows you to add a lot of functionalities. Finally, by using RapidAPI travel advisor REST API I learned more about the good practices and concepts for fetching data and displaying it.
 
-### Built With
+## Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Material UI](https://mui.com/)
+- [Google map react](https://www.npmjs.com/package/google-map-react)
+- [Axios](https://axios-http.com/docs/intro)
+- [RapidAPI-TravelAdvisor](https://rapidapi.com/apidojo/api/travel-advisor/)
 
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Felipe´s Portfolio](hhttps://felipeverger.netlify.app)
+- GitHub [@felipeVerger](https://github.com/felipeVerger)
+- Twitter [@felipe_verger](https://twitter.com/felipe_verger)

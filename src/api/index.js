@@ -19,10 +19,3 @@ export const getPlacesData = async (type, sw, ne) => {
     }
 }
 
-export const getWeatherData = async () => {
-    try {
-        const { data } = await axios.get();
-    } catch (error) {
-        console.log(error);
-    }
-}
